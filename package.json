@@ -1,0 +1,17 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "node.js pubsub ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Sayem",
+  "license": "MIT ",
+  "dependencies": {
+    "axon": "^2.0.3",
+    "express": "^4.16.1",
+    "redis": "^2.8.0",
+    "underscore": "^1.8.3"
+  }
+}
